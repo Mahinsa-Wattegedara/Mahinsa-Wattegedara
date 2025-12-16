@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+
 <h1 align="center">Hi, I'm Mahinsa Wattegedara</h1>
 <h3 align="center">Passionate about Coding | Web Development | Robotics</h3>
 
