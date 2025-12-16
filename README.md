@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://user-images.githubusercontent.com/74038190/216318927-19caf8d9-8cb8-4dc7-b7a2-b4fbda69ab21.png" >
 </p>
 
 <h1 align="center">Hi, I'm Mahinsa Wattegedara</h1>
