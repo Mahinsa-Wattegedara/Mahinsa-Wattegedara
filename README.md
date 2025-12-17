@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Mahinsa Wattegedara</h1>
 
 <br>
-<h3 align="center">AI Undergraduate | University of Moratuwa</h3>
+<h3 align="center">AI Undergraduate   |   University of Moratuwa</h3>
 <h3 align="center">Passionate about Coding | Web Development | Robotics</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahinsa-wattegedara&label=Profile%20views&color=0e75b6&style=flat" alt="mahinsa-wattegedara" /> </p>
@@ -34,14 +34,32 @@
 </table>
 <div align=center>
 </div>
-</p>         
+</p>  
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/mahinsalinkdin" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="mahinsalinkdin" height="50" width="50" /></a>
-<a href="https://fb.com/mahinsafb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahinsafb" height="50" width="50" /></a>
-<a href="https://instagram.com/mahinsainsta" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="mahinsainsta" height="50" width="50" /></a>
-</p>
+<br>
+
+
+
+<div>
+   <h3 align="center">Connect with me:</h3>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/mahinsa/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="mahinsa" height="30"/></a>
+      <a href="https://fb.com/mahinsa" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="mahinsa" height="30"/></a>
+      <a href="mailto:mahinsagrd@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="mahinsa" height="30"/></a>
+      <a href="https://instagram.com/mahinsa" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="mahinsa" height="30"/></a>
+      <br>
+    </p>
+</div>
+
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a>
@@ -57,5 +75,4 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/UnrealEngine.svg" alt="unreal" width="50" height="50"/> </a> </p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">le=en&layout=compact" alt="mahinsa-wattegedara" /></p>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
