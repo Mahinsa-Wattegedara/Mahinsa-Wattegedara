@@ -17,23 +17,18 @@
 
 <p align="center">
 
-<table align="center" border="1px">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Mahinsa-Wattegedara&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
 
-<td width="50%" align="center">
+<a href="https://github.com/Mahinsa-Wattegedara">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Mahinsa-Wattegedara&theme=tokyonight&show_icons=true&count_private=true" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mahinsa-Wattegedara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+<a href="https://github.com/Mahinsa-Wattegedara">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mahinsa-Wattegedara&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
-</tr>
-</table>
-<div align=center>
-</div>
+  </a>
 </p>  
 
 <br>
