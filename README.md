@@ -11,9 +11,14 @@
 <h3 align="center">Passionate about Coding | Web Development | Robotics</h3>
 <h6 align="center">(mahinsagrd@gmail.com)</h6>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahinsa-wattegedara&label=Profile%20views&color=0e75b6&style=flat" alt="mahinsa-wattegedara" /> </p>
-<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mahinsa-Wattegedara&label=Profile%20views&color=0e75b6&style=flat" alt="mahinsa-wattegedara" /> </p>
 
+<div align="center">
+
+[![Follow Me](https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mahinsa-Wattegedara)
+
+</div>
+<br>
 <p align="center">
 
 
