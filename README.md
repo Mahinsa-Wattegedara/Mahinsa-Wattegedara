@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img width="200" src="https://user-images.githubusercontent.com/74038190/216318927-19caf8d9-8cb8-4dc7-b7a2-b4fbda69ab21.png" >
+    <img width="200" src="https://github.com/Mahinsa-Wattegedara/My-Pictures/blob/main/Pic1.png"  >
 </p>
 
 <h1 align="center">Hi, I'm Mahinsa Wattegedara</h1>
@@ -9,11 +9,9 @@
 <br>
 <h3 align="center">AI Undergraduate   |   University of Moratuwa</h3>
 <h3 align="center">Passionate about Coding | Web Development | Robotics</h3>
+<h6 align="center">(mahinsagrd@gmail.com)</h6>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahinsa-wattegedara&label=Profile%20views&color=0e75b6&style=flat" alt="mahinsa-wattegedara" /> </p>
-
-
-📫 How to reach me **mahinsagrd@gmail.com**
 <br>
 
 <p align="center">
@@ -73,6 +71,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> &nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> &nbsp;&nbsp;
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/UnrealEngine.svg" alt="unreal" width="50" height="50"/> </a> </p>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/UnrealEngine.svg" alt="unreal" width="50" height="50"/> </a> </p><br><br>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br>
