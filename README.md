@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
     <img width="200" src="https://user-images.githubusercontent.com/74038190/216318927-19caf8d9-8cb8-4dc7-b7a2-b4fbda69ab21.png" >
 </p>
@@ -55,4 +57,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/UnrealEngine.svg" alt="unreal" width="50" height="50"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahinsa-wattegedara&show_icons=true&locale=en&layout=compact" alt="mahinsa-wattegedara" /></p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">le=en&layout=compact" alt="mahinsa-wattegedara" /></p>
+
