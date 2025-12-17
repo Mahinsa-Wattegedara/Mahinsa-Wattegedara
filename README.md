@@ -3,13 +3,36 @@
 </p>
 
 <h1 align="center">Hi, I'm Mahinsa Wattegedara</h1>
+
+<br>
+<h3 align="center">AI Undergraduate | University of Moratuwa</h3>
 <h3 align="center">Passionate about Coding | Web Development | Robotics</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahinsa-wattegedara&label=Profile%20views&color=0e75b6&style=flat" alt="mahinsa-wattegedara" /> </p>
 
-- 🔭 I’m an AI Undergraduate **at University of Moratuwa**
 
 - 📫 How to reach me **mahinsagrd@gmail.com**
+
+<p align="center">
+
+<table align="center" border="1px">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Mahinsa-Wattegedara&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mahinsa-Wattegedara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<div align=center>
+</div>
+</p>         
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
