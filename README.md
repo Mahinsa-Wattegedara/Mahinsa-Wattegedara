@@ -24,7 +24,8 @@
 
 <a href="https://github.com/Mahinsa-Wattegedara" >
     
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Mahinsa-Wattegedara&theme=tokyonight&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahinsa-Wattegedara&layout=compact&theme=tokyonight" />
+
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
